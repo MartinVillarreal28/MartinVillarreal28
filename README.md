@@ -17,8 +17,7 @@ Cuento con +2 años de experiencia como desarrollador web. Trayectoria en la cre
 </br>
 [![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 </br>
-[![Email](<https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010>)](mailto:braismoure@mouredev.com)
+[![Email](<https://img.shields.io/badge/martin.herrera@wearewekala.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010>)](mailto:martin.herrera@wearewekala.com)
 </br>
