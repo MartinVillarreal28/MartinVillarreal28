@@ -10,7 +10,7 @@ Cuento con +2 años de experiencia como desarrollador web. Trayectoria en la cre
 
 ## Encuéntrame en:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
+[![Twitter](https://img.shields.io/badge/Twitter-@martinhv28-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/martinhv28)
 [![Instagram](https://img.shields.io/badge/Instagram-@martinvillarreal28-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/martin_villarreal28/)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/martin-herrera-v/)
