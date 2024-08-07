@@ -14,7 +14,7 @@ Cuento con +2 años de experiencia como desarrollador web. Trayectoria en la cre
 [![Instagram](https://img.shields.io/badge/Instagram-@martinvillarreal28-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/martin_villarreal28/)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/martin-herrera-v/)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+
 </br>
 [![Email](<https://img.shields.io/badge/martin.herrera@wearewekala.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010>)](mailto:martin.herrera@wearewekala.com)
 </br>
